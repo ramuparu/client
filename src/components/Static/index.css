@@ -1,0 +1,13 @@
+.static_bgc_con{
+    background-image: url('https://res.cloudinary.com/dkz4qzdsw/image/upload/v1646305164/container_orchestration_STATIC_hero_201005_FINAL.png_o3qvfc.jpg');
+    height:100vh;
+    
+}
+
+.static_unordered_list{
+    display: flex;
+
+    flex-wrap: wrap;
+    width:100%;
+    overflow: auto;
+}

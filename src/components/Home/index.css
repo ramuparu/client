@@ -1,0 +1,9 @@
+.active{
+    color:red
+}
+
+.project-form-container{
+    background-image: url('https://res.cloudinary.com/dkz4qzdsw/image/upload/v1642032480/weather_xpihce.jpg');
+    background-size: cover;
+    min-height: 100vh;
+}
